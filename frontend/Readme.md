@@ -13,7 +13,7 @@
   * React - React Router;
   * Redux - Redux Saga.
 
-Для запуска приложения воспользуйтесь команами:
+Для запуска приложения воспользуйтесь командами:
   * npm install
   * npm run start
 
